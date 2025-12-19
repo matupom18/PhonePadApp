@@ -10,7 +10,7 @@ This document describes how AI tools were used in the development of this soluti
 
 The following prompt was used to assist with developing this solution:
 
-> read @[C# Coding Challenge.pdf] Complete the C# Coding Challenge (design and document a class or method for OldPhonePad).
+> design and document a class or method for OldPhonePad.
 > Upload your completed solution (production-ready code, test cases, readmes, and documentation) to a GitHub repository.
 > including your intended AI prompt and the AI/tool you would use, along with a hyperlink to the AI prompt in your GitHub repo.
 > You may use AI tools to tidy up your code, but the core problem-solving must be your own. i have code @[phone.cs]
